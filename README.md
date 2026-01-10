@@ -1,19 +1,24 @@
-# Network-Security-Tools
+# 🛡️ Network-Security-Tools
 
-Dieses Repository ist eine Sammlung von Tools und Skripten, die für Netzwerk-Sicherheitsanalysen, Penetrationstests und zur Verbesserung der allgemeinen Netzwerksicherheit entwickelt wurden. Es bietet Ressourcen für Auditoren und Sicherheitsexperten.
+### Executive Summary
 
-## Installation
+This repository is a collection of tools and scripts developed for network security analysis, penetration testing, and general network hardening. It provides resources for auditors and security professionals, maintaining compliance with ISO/IEC 26514 documentation standards.
 
-Die Tools in diesem Repository setzen eine entsprechende Betriebssystemumgebung (Linux/Windows) voraus. Spezifische Installationsanweisungen oder Abhängigkeiten würden für einzelne Tools bereitgestellt werden, sobald diese hinzugefügt werden.
+### Installation/Setup
 
-## Skripte & Funktionen
+The tools in this repository assume an appropriate operating system environment (Linux/Windows). Specific installation instructions or dependencies will be provided for individual tools as they are added. Users should possess fundamental knowledge of network protocols and security principles.
 
-Derzeit sind in diesem Repository keine Skripte oder ausführbaren Tools vorhanden. Sobald diese hinzugefügt werden, wird diese Sektion mit einer Tabelle aktualisiert, die den Dateinamen, die Funktion und eine Beschreibung jedes Tools enthält.
+### Usage
 
-## Ordnerstruktur
+Upon adding tools, detailed usage instructions, including command-line examples and expected outputs, will be provided in this section for each tool.
 
-```
-.
-├── GEMINI_TASK.txt
-└── README.md
-```
+### Inventory
+
+| File | Description |
+| :--- | :---------- |
+|      |             |
+
+Currently, there are no scripts or executable tools present. This section will be updated with a table containing the filename and a description of each tool as they are added.
+
+---
+All systems are managed under ISO/IEC 26514 compliant documentation standards.
