@@ -1,6 +1,10 @@
-# Network-Security-Tools
+# Network-Security-Tools Framework
 
-*This directory currently contains no executable scripts.*
+This repository serves as a centralized management hub for various automation modules.
+
+## Projekt-Struktur / Module
+| Modul | Kurzbeschreibung |
+| :--- | :--- |
 
 ---
-> Automated via Jarvis System (ISO-IEC 26514 Compliant)
+> All systems are managed under ISO/IEC 26514 compliant documentation standards.
