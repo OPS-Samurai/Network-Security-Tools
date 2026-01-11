@@ -1,6 +1,6 @@
 # Network-Security-Tools Architecture
 
-This framework orchestrates multiple automation modules. Use the matrix below to navigate through the project documentation.
+A dedicated security architecture focusing on network analysis, vulnerability assessment, and defensive hardening protocols.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
