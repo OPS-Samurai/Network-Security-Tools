@@ -1,6 +1,6 @@
 # Network-Security-Tools Architecture
 
-A dedicated security architecture focusing on network analysis, vulnerability assessment, and defensive hardening protocols.
+A dedicated security architecture focusing on network analysis and defensive hardening protocols.
 
 | Repository | Focus & Purpose | Status |
 | :--- | :--- | :--- |
